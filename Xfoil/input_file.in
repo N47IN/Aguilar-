@@ -1,0 +1,13 @@
+LOAD Aguilar.dat
+Aguilar
+PANE
+OPER
+Visc 1000000
+PACC
+polar_file.txt
+
+ITER 1000
+ASeq -0.5 0 0.25
+
+
+quit
